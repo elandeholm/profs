@@ -1,0 +1,3 @@
+[submodule "binary_io"]
+	path = binary_io
+	url = https://github.com/elandeholm/binary_io.git
